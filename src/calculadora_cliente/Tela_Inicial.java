@@ -11,6 +11,7 @@ public class Tela_Inicial extends javax.swing.JFrame {
     String numero = "";
     String auxiliar = "";
     String mostrar = "";
+    String qualquer = "";
 
     float numero_Convertido;
     float total;
