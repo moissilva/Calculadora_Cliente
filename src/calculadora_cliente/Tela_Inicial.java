@@ -43,7 +43,7 @@ public class Tela_Inicial extends javax.swing.JFrame {
         ponto = true;
         numero_Convertido = 0;
         Visor_Resultado.setText("" + total);
-
+        //Eduardo
         mostrar += "+";
         mostrarConta();
     }
